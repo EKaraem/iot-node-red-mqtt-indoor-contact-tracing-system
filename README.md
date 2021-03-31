@@ -19,5 +19,4 @@ or just access Manage Palette directly from node-red
 #### Description
 
 Video: 
-https://drive.google.com/file/d/1BPH6cfqyE52Q9FvLGnCrpq_hd7VzP8vT/view?usp=sharing 
-
+https://drive.google.com/file/d/1BPH6cfqyE52Q9FvLGnCrpq_hd7VzP8vT/view?usp=sharing
